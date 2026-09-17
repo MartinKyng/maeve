@@ -1,0 +1,35 @@
+{
+  "app_min_version": "1.0.0",
+  "bank": {
+    "version": "",
+    "asset": "bank-v1.zip",
+    "sha256": "",
+    "size": 0
+  },
+  "models": [
+    {
+      "id": "qwen2.5-0.5b",
+      "label": "Qwen2.5 0.5B Instruct (Q4_K_M) - fits 4GB RAM",
+      "min_ram_gb": 4,
+      "url": "https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct-GGUF/resolve/main/qwen2.5-0.5b-instruct-q4_k_m.gguf",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "id": "qwen2.5-1.5b",
+      "label": "Qwen2.5 1.5B Instruct (Q4_K_M) - 8GB RAM",
+      "min_ram_gb": 8,
+      "url": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF/resolve/main/qwen2.5-1.5b-instruct-q4_k_m.gguf",
+      "sha256": "",
+      "size": 0
+    },
+    {
+      "id": "qwen2.5-3b",
+      "label": "Qwen2.5 3B Instruct (Q4_K_M) - 16GB RAM",
+      "min_ram_gb": 16,
+      "url": "https://huggingface.co/Qwen/Qwen2.5-3B-Instruct-GGUF/resolve/main/qwen2.5-3b-instruct-q4_k_m.gguf",
+      "sha256": "",
+      "size": 0
+    }
+  ]
+}
